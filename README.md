@@ -28,3 +28,5 @@ You can customize the configuration by editing the `docker-compose.yml` file.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+2024
